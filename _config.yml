@@ -1,1 +1,8 @@
-pygments: true
+title: Daniel Reverri
+description: Notes and writing by Daniel Reverri
+author: Daniel Reverri
+url: https://reverri.com
+
+markdown: kramdown
+highlighter: rouge
+permalink: /:year/:month/:day/:title/
